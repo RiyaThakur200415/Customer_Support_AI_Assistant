@@ -1,0 +1,8 @@
+Technical Manual
+
+If the application crashes:
+
+1. Restart the application.
+2. Check your internet connection.
+3. Update to the latest version.
+4. Contact Technical Support if the issue continues.
